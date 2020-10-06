@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Srassam/readMe_SR/issues"
   },
-  "homepage": "https://github.com/Srassam/readMe_SR#readme"
+  "homepage": "https://github.com/Srassam/readMe_SR#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
