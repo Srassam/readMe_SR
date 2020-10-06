@@ -1,0 +1,19 @@
+{
+  "name": "readme_sr",
+  "version": "1.0.0",
+  "description": "readme ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srassam/readMe_SR.git"
+  },
+  "author": "Saad Rassam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srassam/readMe_SR/issues"
+  },
+  "homepage": "https://github.com/Srassam/readMe_SR#readme"
+}
