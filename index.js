@@ -12,7 +12,7 @@ inquirer.prompt([
     {
         type: "input",
         message: "What is the name of the project?",
-        name: "project name"
+        name: "project"
     },
     {
         type: "input",
@@ -38,8 +38,8 @@ inquirer.prompt([
     },
     {
         type: "input",
-        message: "What is your GitHub user name?",
-        name: "username"
+        message: "What is your GitHub email address?",
+        name: "email"
     },
     {
         type: "input",
